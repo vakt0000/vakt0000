@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vakt0000
-- 👀 I’m interested in Electrical Engineering, specifically Analog to Digital Converters based in Sigma-Delta modulators.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on "not sure yet".
+- 👀 I’m mainly interested in Electrical Engineering, specifically Analog to Digital Converters based in Sigma-Delta modulators. Currently exploring web developing.
+- 🌱 I’m currently learning Python and doing "The Odin Project".
 - 📫 How to reach me: medina.victor.m@protonmail.com
 
 <!---
